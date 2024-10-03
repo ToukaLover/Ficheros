@@ -91,7 +91,7 @@ public class ListarContenidoTreeYBytes {
 
     public static void aTexto(File archivoBin,File archivoTexto){
         try(FileInputStream fip = new FileInputStream(archivoBin);BufferedInputStream bis = new BufferedInputStream(fip);FileWriter fw = new FileWriter(archivoTexto,true);BufferedWriter bw = new BufferedWriter(fw)) {
-
+//mamawebo
             byte[] primerEntero = new byte[4];
 
             while (bis.read(primerEntero)!= -1){
