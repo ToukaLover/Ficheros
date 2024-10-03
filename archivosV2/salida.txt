@@ -1,0 +1,42 @@
+└── Carpeta: Escritorio
+    ├── Carpeta: GAMES
+    │   ├── Archivo: si
+    │   └── Archivo: lol
+    ├── Archivo: AbrirGeany.class
+    ├── Carpeta: yqs
+    │   ├── Carpeta: src
+    │   │   ├── Archivo: main.java
+    │   │   ├── Archivo: ejecutarJavaGeany.java
+    │   │   ├── Carpeta: Nombre
+    │   │   │   ├── Archivo: ejecutarLeerNombre.java
+    │   │   │   ├── Archivo: LeerNombre.java
+    │   │   │   └── Archivo: LeerNombre.class
+    │   │   ├── Archivo: AbrirGeany.java
+    │   │   ├── Archivo: Numeros.java
+    │   │   └── Archivo: Alumno.java
+    │   ├── Carpeta: .idea
+    │   │   ├── Archivo: modules.xml
+    │   │   ├── Archivo: workspace.xml
+    │   │   ├── Archivo: .gitignore
+    │   │   └── Archivo: misc.xml
+    │   ├── Archivo: .gitignore
+    │   ├── Archivo: yqs.iml
+    │   └── Carpeta: out
+    │       └── Carpeta: production
+    │           └── Carpeta: yqs
+    │               ├── Archivo: main.class
+    │               ├── Carpeta: Nombre
+    │               │   ├── Archivo: ejecutarLeerNombre.class
+    │               │   └── Archivo: LeerNombre.class
+    │               ├── Archivo: Alumno.class
+    │               ├── Archivo: Numeros.class
+    │               ├── Archivo: AbrirGeany.class
+    │               └── Archivo: ejecutarJavaGeany.class
+    ├── Carpeta: musica
+    │   └── Archivo: alalalalong
+    └── Carpeta: cosas
+        ├── Carpeta: XDDD
+        │   ├── Carpeta: xD
+        │   │   └── Archivo: jaja
+        │   └── Archivo: XDDDDD
+        └── Archivo: el_nopor

@@ -1,0 +1,462 @@
+âââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+    â   âââ Archivo: si
+    â   âââ Archivo: lol
+    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+    â   âââ Carpeta: src
+    â   â   âââ Archivo: main.java
+    â   â   âââ Archivo: ejecutarJavaGeany.java
+    â   â   âââ Carpeta: Nombre
+    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.class
+    â   â   âââ Archivo: AbrirGeany.java
+    â   â   âââ Archivo: Numeros.java
+    â   â   âââ Archivo: Alumno.java
+    â   âââ Carpeta: .idea
+    â   â   âââ Archivo: modules.xml
+    â   â   âââ Archivo: workspace.xml
+    â   â   âââ Archivo: .gitignore
+    â   â   âââ Archivo: misc.xml
+    â   âââ Archivo: .gitignore
+    â   âââ Archivo: yqs.iml
+    â   âââ Carpeta: out
+    â       âââ Carpeta: production
+    â           âââ Carpeta: yqs
+    â               âââ Archivo: main.class
+    â               âââ Carpeta: Nombre
+    â               â   âââ Archivo: ejecutarLeerNombre.class
+    â               â   âââ Archivo: LeerNombre.class
+    â               âââ Archivo: Alumno.class
+    â               âââ Archivo: Numeros.class
+    â               âââ Archivo: AbrirGeany.class
+    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+    â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+        âââ Carpeta: XDDD
+        â   âââ Carpeta: xD
+        â   â   âââ Archivo: jaja
+        â   âââ Archivo: XDDDDD
+        âââ Archivo: el_nopor
+âââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+    â   âââ Archivo: si
+    â   âââ Archivo: lol
+    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+    â   âââ Carpeta: src
+    â   â   âââ Archivo: main.java
+    â   â   âââ Archivo: ejecutarJavaGeany.java
+    â   â   âââ Carpeta: Nombre
+    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.class
+    â   â   âââ Archivo: AbrirGeany.java
+    â   â   âââ Archivo: Numeros.java
+    â   â   âââ Archivo: Alumno.java
+    â   âââ Carpeta: .idea
+    â   â   âââ Archivo: modules.xml
+    â   â   âââ Archivo: workspace.xml
+    â   â   âââ Archivo: .gitignore
+    â   â   âââ Archivo: misc.xml
+    â   âââ Archivo: .gitignore
+    â   âââ Archivo: yqs.iml
+    â   âââ Carpeta: out
+    â       âââ Carpeta: production
+    â           âââ Carpeta: yqs
+    â               âââ Archivo: main.class
+    â               âââ Carpeta: Nombre
+    â               â   âââ Archivo: ejecutarLeerNombre.class
+    â               â   âââ Archivo: LeerNombre.class
+    â               âââ Archivo: Alumno.class
+    â               âââ Archivo: Numeros.class
+    â               âââ Archivo: AbrirGeany.class
+    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+    â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+        âââ Carpeta: XDDD
+        â   âââ Carpeta: xD
+        â   â   âââ Archivo: jaja
+        â   âââ Archivo: XDDDDD
+        âââ Archivo: el_nopor
+݋݋âââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+    â   âââ Archivo: si
+    â   âââ Archivo: lol
+    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+    â   âââ Carpeta: src
+    â   â   âââ Archivo: main.java
+    â   â   âââ Archivo: ejecutarJavaGeany.java
+    â   â   âââ Carpeta: Nombre
+    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.class
+    â   â   âââ Archivo: AbrirGeany.java
+    â   â   âââ Archivo: Numeros.java
+    â   â   âââ Archivo: Alumno.java
+    â   âââ Carpeta: .idea
+    â   â   âââ Archivo: modules.xml
+    â   â   âââ Archivo: workspace.xml
+    â   â   âââ Archivo: .gitignore
+    â   â   âââ Archivo: misc.xml
+    â   âââ Archivo: .gitignore
+    â   âââ Archivo: yqs.iml
+    â   âââ Carpeta: out
+    â       âââ Carpeta: production
+    â           âââ Carpeta: yqs
+    â               âââ Archivo: main.class
+    â               âââ Carpeta: Nombre
+    â               â   âââ Archivo: ejecutarLeerNombre.class
+    â               â   âââ Archivo: LeerNombre.class
+    â               âââ Archivo: Alumno.class
+    â               âââ Archivo: Numeros.class
+    â               âââ Archivo: AbrirGeany.class
+    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+    â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+        âââ Carpeta: XDDD
+        â   âââ Carpeta: xD
+        â   â   âââ Archivo: jaja
+        â   âââ Archivo: XDDDDD
+        âââ Archivo: el_nopor
+âââ Carpeta: Escritorio    âââ Carpeta: GAMES    â   âââ Archivo: si    â   âââ Archivo: lol    âââ Archivo: AbrirGeany.class    âââ Carpeta: yqs    â   âââ Carpeta: src    â   â   âââ Archivo: main.java    â   â   âââ Archivo: ejecutarJavaGeany.java    â   â   âââ Carpeta: Nombre    â   â   â   âââ Archivo: ejecutarLeerNombre.java    â   â   â   âââ Archivo: LeerNombre.java    â   â   â   âââ Archivo: LeerNombre.class    â   â   âââ Archivo: AbrirGeany.java    â   â   âââ Archivo: Numeros.java    â   â   âââ Archivo: Alumno.java    â   âââ Carpeta: .idea    â   â   âââ Archivo: modules.xml    â   â   âââ Archivo: workspace.xml    â   â   âââ Archivo: .gitignore    â   â   âââ Archivo: misc.xml    â   âââ Archivo: .gitignore    â   âââ Archivo: yqs.iml    â   âââ Carpeta: out    â       âââ Carpeta: production    â           âââ Carpeta: yqs    â               âââ Archivo: main.class    â               âââ Carpeta: Nombre    â               â   âââ Archivo: ejecutarLeerNombre.class    â               â   âââ Archivo: LeerNombre.class    â               âââ Archivo: Alumno.class    â               âââ Archivo: Numeros.class    â               âââ Archivo: AbrirGeany.class    â               âââ Archivo: ejecutarJavaGeany.class    âââ Carpeta: musica    â   âââ Archivo: alalalalong    âââ Carpeta: cosas        âââ Carpeta: XDDD        â   âââ Carpeta: xD        â   â   âââ Archivo: jaja        â   âââ Archivo: XDDDDD        âââ Archivo: el_noporâââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+    â   âââ Archivo: si
+    â   âââ Archivo: lol
+    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+    â   âââ Carpeta: src
+    â   â   âââ Archivo: main.java
+    â   â   âââ Archivo: ejecutarJavaGeany.java
+    â   â   âââ Carpeta: Nombre
+    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.java
+    â   â   â   âââ Archivo: LeerNombre.class
+    â   â   âââ Archivo: AbrirGeany.java
+    â   â   âââ Archivo: Numeros.java
+    â   â   âââ Archivo: Alumno.java
+    â   âââ Carpeta: .idea
+    â   â   âââ Archivo: modules.xml
+    â   â   âââ Archivo: workspace.xml
+    â   â   âââ Archivo: .gitignore
+    â   â   âââ Archivo: misc.xml
+    â   âââ Archivo: .gitignore
+    â   âââ Archivo: yqs.iml
+    â   âââ Carpeta: out
+    â       âââ Carpeta: production
+    â           âââ Carpeta: yqs
+    â               âââ Archivo: main.class
+    â               âââ Carpeta: Nombre
+    â               â   âââ Archivo: ejecutarLeerNombre.class
+    â               â   âââ Archivo: LeerNombre.class
+    â               âââ Archivo: Alumno.class
+    â               âââ Archivo: Numeros.class
+    â               âââ Archivo: AbrirGeany.class
+    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+    â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+        âââ Carpeta: XDDD
+        â   âââ Carpeta: xD
+        â   â   âââ Archivo: jaja
+        â   âââ Archivo: XDDDDD
+        âââ Archivo: el_nopor
+âââ Carpeta: Escritorio    âââ Carpeta: GAMES    â   âââ Archivo: si    â   âââ Archivo: lol!    âââ Archivo: AbrirGeany.class    âââ Carpeta: yqs    â   âââ Carpeta: src"    â   â   âââ Archivo: main.java/    â   â   âââ Archivo: ejecutarJavaGeany.java    â   â   âââ Carpeta: Nombre4    â   â   â   âââ Archivo: ejecutarLeerNombre.java,    â   â   â   âââ Archivo: LeerNombre.java-    â   â   â   âââ Archivo: LeerNombre.class(    â   â   âââ Archivo: AbrirGeany.java%    â   â   âââ Archivo: Numeros.java$    â   â   âââ Archivo: Alumno.java    â   âââ Carpeta: .idea$    â   â   âââ Archivo: modules.xml&    â   â   âââ Archivo: workspace.xml#    â   â   âââ Archivo: .gitignore!    â   â   âââ Archivo: misc.xml    â   âââ Archivo: .gitignore    â   âââ Archivo: yqs.iml    â   âââ Carpeta: out#    â       âââ Carpeta: production     â           âââ Carpeta: yqs+    â               âââ Archivo: main.class'    â               âââ Carpeta: Nombre=    â               â   âââ Archivo: ejecutarLeerNombre.class5    â               â   âââ Archivo: LeerNombre.class-    â               âââ Archivo: Alumno.class.    â               âââ Archivo: Numeros.class1    â               âââ Archivo: AbrirGeany.class8    â               âââ Archivo: ejecutarJavaGeany.class    âââ Carpeta: musica     â   âââ Archivo: alalalalong    âââ Carpeta: cosas        âââ Carpeta: XDDD        â   âââ Carpeta: xD!        â   â   âââ Archivo: jaja        â   âââ Archivo: XDDDDD        âââ Archivo: el_noporâââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+    â   âââ Archivo: si
+    â   âââ Archivo: lol
+!    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+    â   âââ Carpeta: src
+"    â   â   âââ Archivo: main.java
+/    â   â   âââ Archivo: ejecutarJavaGeany.java
+    â   â   âââ Carpeta: Nombre
+4    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+,    â   â   â   âââ Archivo: LeerNombre.java
+-    â   â   â   âââ Archivo: LeerNombre.class
+(    â   â   âââ Archivo: AbrirGeany.java
+%    â   â   âââ Archivo: Numeros.java
+$    â   â   âââ Archivo: Alumno.java
+    â   âââ Carpeta: .idea
+$    â   â   âââ Archivo: modules.xml
+&    â   â   âââ Archivo: workspace.xml
+#    â   â   âââ Archivo: .gitignore
+!    â   â   âââ Archivo: misc.xml
+    â   âââ Archivo: .gitignore
+    â   âââ Archivo: yqs.iml
+    â   âââ Carpeta: out
+#    â       âââ Carpeta: production
+     â           âââ Carpeta: yqs
++    â               âââ Archivo: main.class
+'    â               âââ Carpeta: Nombre
+=    â               â   âââ Archivo: ejecutarLeerNombre.class
+5    â               â   âââ Archivo: LeerNombre.class
+-    â               âââ Archivo: Alumno.class
+.    â               âââ Archivo: Numeros.class
+1    â               âââ Archivo: AbrirGeany.class
+8    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+     â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+        âââ Carpeta: XDDD
+        â   âââ Carpeta: xD
+!        â   â   âââ Archivo: jaja
+        â   âââ Archivo: XDDDDD
+        âââ Archivo: el_nopor
+âââ Carpeta: Escritorio
+    âââ Carpeta: GAMES
+     â   âââ Archivo: si
+!    â   âââ Archivo: lol
+(    âââ Archivo: AbrirGeany.class
+    âââ Carpeta: yqs
+!    â   âââ Carpeta: src
+-    â   â   âââ Archivo: main.java
+:    â   â   âââ Archivo: ejecutarJavaGeany.java
+*    â   â   âââ Carpeta: Nombre
+A    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+9    â   â   â   âââ Archivo: LeerNombre.java
+:    â   â   â   âââ Archivo: LeerNombre.class
+3    â   â   âââ Archivo: AbrirGeany.java
+0    â   â   âââ Archivo: Numeros.java
+/    â   â   âââ Archivo: Alumno.java
+#    â   âââ Carpeta: .idea
+/    â   â   âââ Archivo: modules.xml
+1    â   â   âââ Archivo: workspace.xml
+.    â   â   âââ Archivo: .gitignore
+,    â   â   âââ Archivo: misc.xml
+(    â   âââ Archivo: .gitignore
+%    â   âââ Archivo: yqs.iml
+!    â   âââ Carpeta: out
+,    â       âââ Carpeta: production
+)    â           âââ Carpeta: yqs
+4    â               âââ Archivo: main.class
+0    â               âââ Carpeta: Nombre
+H    â               â   âââ Archivo: ejecutarLeerNombre.class
+@    â               â   âââ Archivo: LeerNombre.class
+6    â               âââ Archivo: Alumno.class
+7    â               âââ Archivo: Numeros.class
+:    â               âââ Archivo: AbrirGeany.class
+A    â               âââ Archivo: ejecutarJavaGeany.class
+    âââ Carpeta: musica
+)    â   âââ Archivo: alalalalong
+    âââ Carpeta: cosas
+         âââ Carpeta: XDDD
+$        â   âââ Carpeta: xD
+,        â   â   âââ Archivo: jaja
+(        â   âââ Archivo: XDDDDD
+$        âââ Archivo: el_nopor
+   âââ Carpeta: Escritorio
+       âââ Carpeta: GAMES
+        â   âââ Archivo: si
+   !    â   âââ Archivo: lol
+   (    âââ Archivo: AbrirGeany.class
+       âââ Carpeta: yqs
+   !    â   âââ Carpeta: src
+   -    â   â   âââ Archivo: main.java
+   :    â   â   âââ Archivo: ejecutarJavaGeany.java
+   *    â   â   âââ Carpeta: Nombre
+   A    â   â   â   âââ Archivo: ejecutarLeerNombre.java
+   9    â   â   â   âââ Archivo: LeerNombre.java
+   :    â   â   â   âââ Archivo: LeerNombre.class
+   3    â   â   âââ Archivo: AbrirGeany.java
+   0    â   â   âââ Archivo: Numeros.java
+   /    â   â   âââ Archivo: Alumno.java
+   #    â   âââ Carpeta: .idea
+   /    â   â   âââ Archivo: modules.xml
+   1    â   â   âââ Archivo: workspace.xml
+   .    â   â   âââ Archivo: .gitignore
+   ,    â   â   âââ Archivo: misc.xml
+   (    â   âââ Archivo: .gitignore
+   %    â   âââ Archivo: yqs.iml
+   !    â   âââ Carpeta: out
+   ,    â       âââ Carpeta: production
+   )    â           âââ Carpeta: yqs
+   4    â               âââ Archivo: main.class
+   0    â               âââ Carpeta: Nombre
+   H    â               â   âââ Archivo: ejecutarLeerNombre.class
+   @    â               â   âââ Archivo: LeerNombre.class
+   6    â               âââ Archivo: Alumno.class
+   7    â               âââ Archivo: Numeros.class
+   :    â               âââ Archivo: AbrirGeany.class
+   A    â               âââ Archivo: ejecutarJavaGeany.class
+       âââ Carpeta: musica
+   )    â   âââ Archivo: alalalalong
+       âââ Carpeta: cosas
+            âââ Carpeta: XDDD
+   $        â   âââ Carpeta: xD
+   ,        â   â   âââ Archivo: jaja
+   (        â   âââ Archivo: XDDDDD
+   $        âââ Archivo: el_nopor
+└── Carpeta: Escritorio
+    ├── Carpeta: GAMES
+    │   ├── Archivo: si
+    │   └── Archivo: lol
+    ├── Archivo: AbrirGeany.class
+    ├── Carpeta: yqs
+    │   ├── Carpeta: src
+    │   │   ├── Archivo: main.java
+    │   │   ├── Archivo: ejecutarJavaGeany.java
+    │   │   ├── Carpeta: Nombre
+    │   │   │   ├── Archivo: ejecutarLeerNombre.java
+    │   │   │   ├── Archivo: LeerNombre.java
+    │   │   │   └── Archivo: LeerNombre.class
+    │   │   ├── Archivo: AbrirGeany.java
+    │   │   ├── Archivo: Numeros.java
+    │   │   └── Archivo: Alumno.java
+    │   ├── Carpeta: .idea
+    │   │   ├── Archivo: modules.xml
+    │   │   ├── Archivo: workspace.xml
+    │   │   ├── Archivo: .gitignore
+    │   │   └── Archivo: misc.xml
+    │   ├── Archivo: .gitignore
+    │   ├── Archivo: yqs.iml
+    │   └── Carpeta: out
+    │       └── Carpeta: production
+    │           └── Carpeta: yqs
+    │               ├── Archivo: main.class
+    │               ├── Carpeta: Nombre
+    │               │   ├── Archivo: ejecutarLeerNombre.class
+    │               │   └── Archivo: LeerNombre.class
+    │               ├── Archivo: Alumno.class
+    │               ├── Archivo: Numeros.class
+    │               ├── Archivo: AbrirGeany.class
+    │               └── Archivo: ejecutarJavaGeany.class
+    ├── Carpeta: musica
+    │   └── Archivo: alalalalong
+    └── Carpeta: cosas
+        ├── Carpeta: XDDD
+        │   ├── Carpeta: xD
+        │   │   └── Archivo: jaja
+        │   └── Archivo: XDDDDD
+        └── Archivo: el_nopor
+└── Carpeta: Escritorio
+    ├── Carpeta: GAMES
+    │   ├── Archivo: si
+    │   └── Archivo: lol
+    ├── Archivo: AbrirGeany.class
+    ├── Carpeta: yqs
+    │   ├── Carpeta: src
+    │   │   ├── Archivo: main.java
+    │   │   ├── Archivo: ejecutarJavaGeany.java
+    │   │   ├── Carpeta: Nombre
+    │   │   │   ├── Archivo: ejecutarLeerNombre.java
+    │   │   │   ├── Archivo: LeerNombre.java
+    │   │   │   └── Archivo: LeerNombre.class
+    │   │   ├── Archivo: AbrirGeany.java
+    │   │   ├── Archivo: Numeros.java
+    │   │   └── Archivo: Alumno.java
+    │   ├── Carpeta: .idea
+    │   │   ├── Archivo: modules.xml
+    │   │   ├── Archivo: workspace.xml
+    │   │   ├── Archivo: .gitignore
+    │   │   └── Archivo: misc.xml
+    │   ├── Archivo: .gitignore
+    │   ├── Archivo: yqs.iml
+    │   └── Carpeta: out
+    │       └── Carpeta: production
+    │           └── Carpeta: yqs
+    │               ├── Archivo: main.class
+    │               ├── Carpeta: Nombre
+    │               │   ├── Archivo: ejecutarLeerNombre.class
+    │               │   └── Archivo: LeerNombre.class
+    │               ├── Archivo: Alumno.class
+    │               ├── Archivo: Numeros.class
+    │               ├── Archivo: AbrirGeany.class
+    │               └── Archivo: ejecutarJavaGeany.class
+    ├── Carpeta: musica
+    │   └── Archivo: alalalalong
+    └── Carpeta: cosas
+        ├── Carpeta: XDDD
+        │   ├── Carpeta: xD
+        │   │   └── Archivo: jaja
+        │   └── Archivo: XDDDDD
+        └── Archivo: el_nopor
+└── Carpeta: Escritorio    ├── Carpeta: GAMES    │   ├── Archivo: si    │   └── Archivo: lol    ├── Archivo: AbrirGeany.class    ├── Carpeta: yqs    │   ├── Carpeta: src    │   │   ├── Archivo: main.java    │   │   ├── Archivo: ejecutarJavaGeany.java    │   │   ├── Carpeta: Nombre    │   │   │   ├── Archivo: ejecutarLeerNombre.java    │   │   │   ├── Archivo: LeerNombre.java    │   │   │   └── Archivo: LeerNombre.class    │   │   ├── Archivo: AbrirGeany.java    │   │   ├── Archivo: Numeros.java    │   │   └── Archivo: Alumno.java    │   ├── Carpeta: .idea    │   │   ├── Archivo: modules.xml    │   │   ├── Archivo: workspace.xml    │   │   ├── Archivo: .gitignore    │   │   └── Archivo: misc.xml    │   ├── Archivo: .gitignore    │   ├── Archivo: yqs.iml    │   └── Carpeta: out    │       └── Carpeta: production    │           └── Carpeta: yqs    │               ├── Archivo: main.class    │               ├── Carpeta: Nombre    │               │   ├── Archivo: ejecutarLeerNombre.class    │               │   └── Archivo: LeerNombre.class    │               ├── Archivo: Alumno.class    │               ├── Archivo: Numeros.class    │               ├── Archivo: AbrirGeany.class    │               └── Archivo: ejecutarJavaGeany.class    ├── Carpeta: musica    │   └── Archivo: alalalalong    └── Carpeta: cosas        ├── Carpeta: XDDD        │   ├── Carpeta: xD        │   │   └── Archivo: jaja        │   └── Archivo: XDDDDD        └── Archivo: el_nopor└── Carpeta: Escritorio
+    ├── Carpeta: GAMES
+    │   ├── Archivo: si
+    │   └── Archivo: lol
+    ├── Archivo: AbrirGeany.class
+    ├── Carpeta: yqs
+    │   ├── Carpeta: src
+    │   │   ├── Archivo: main.java
+    │   │   ├── Archivo: ejecutarJavaGeany.java
+    │   │   ├── Carpeta: Nombre
+    │   │   │   ├── Archivo: ejecutarLeerNombre.java
+    │   │   │   ├── Archivo: LeerNombre.java
+    │   │   │   └── Archivo: LeerNombre.class
+    │   │   ├── Archivo: AbrirGeany.java
+    │   │   ├── Archivo: Numeros.java
+    │   │   └── Archivo: Alumno.java
+    │   ├── Carpeta: .idea
+    │   │   ├── Archivo: modules.xml
+    │   │   ├── Archivo: workspace.xml
+    │   │   ├── Archivo: .gitignore
+    │   │   └── Archivo: misc.xml
+    │   ├── Archivo: .gitignore
+    │   ├── Archivo: yqs.iml
+    │   └── Carpeta: out
+    │       └── Carpeta: production
+    │           └── Carpeta: yqs
+    │               ├── Archivo: main.class
+    │               ├── Carpeta: Nombre
+    │               │   ├── Archivo: ejecutarLeerNombre.class
+    │               │   └── Archivo: LeerNombre.class
+    │               ├── Archivo: Alumno.class
+    │               ├── Archivo: Numeros.class
+    │               ├── Archivo: AbrirGeany.class
+    │               └── Archivo: ejecutarJavaGeany.class
+    ├── Carpeta: musica
+    │   └── Archivo: alalalalong
+    └── Carpeta: cosas
+        ├── Carpeta: XDDD
+        │   ├── Carpeta: xD
+        │   │   └── Archivo: jaja
+        │   └── Archivo: XDDDDD
+        └── Archivo: el_nopor
+└── Carpeta: Escritorio
+    ├── Carpeta: GAMES
+    │   ├── Archivo: si
+    │   └── Archivo: lol
+    ├── Archivo: AbrirGeany.class
+    ├── Carpeta: yqs
+    │   ├── Carpeta: src
+    │   │   ├── Archivo: main.java
+    │   │   ├── Archivo: ejecutarJavaGeany.java
+    │   │   ├── Carpeta: Nombre
+    │   │   │   ├── Archivo: ejecutarLeerNombre.java
+    │   │   │   ├── Archivo: LeerNombre.java
+    │   │   │   └── Archivo: LeerNombre.class
+    │   │   ├── Archivo: AbrirGeany.java
+    │   │   ├── Archivo: Numeros.java
+    │   │   └── Archivo: Alumno.java
+    │   ├── Carpeta: .idea
+    │   │   ├── Archivo: modules.xml
+    │   │   ├── Archivo: workspace.xml
+    │   │   ├── Archivo: .gitignore
+    │   │   └── Archivo: misc.xml
+    │   ├── Archivo: .gitignore
+    │   ├── Archivo: yqs.iml
+    │   └── Carpeta: out
+    │       └── Carpeta: production
+    │           └── Carpeta: yqs
+    │               ├── Archivo: main.class
+    │               ├── Carpeta: Nombre
+    │               │   ├── Archivo: ejecutarLeerNombre.class
+    │               │   └── Archivo: LeerNombre.class
+    │               ├── Archivo: Alumno.class
+    │               ├── Archivo: Numeros.class
+    │               ├── Archivo: AbrirGeany.class
+    │               └── Archivo: ejecutarJavaGeany.class
+    ├── Carpeta: musica
+    │   └── Archivo: alalalalong
+    └── Carpeta: cosas
+        ├── Carpeta: XDDD
+        │   ├── Carpeta: xD
+        │   │   └── Archivo: jaja
+        │   └── Archivo: XDDDDD
+        └── Archivo: el_nopor
