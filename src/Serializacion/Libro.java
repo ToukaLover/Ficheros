@@ -14,7 +14,7 @@ public class Libro implements Serializable {
         this.precio = precio;
         this.descuento = descuento;
     }
-
+//Comentario para prueba de Commit y push
     @Override
     public String toString() {
         return "Libro{" +
